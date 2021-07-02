@@ -92,6 +92,7 @@ a {
 
 .para2 {
   border: transparent;
+  border-radius: 3px;
   font-size: 1.5rem;
   padding: 2rem 0.5rem;
   font-family: "Poppins", sans-serif;
@@ -123,6 +124,7 @@ a {
 }
 
 .image {
+  border-radius: 3px;
   height: calc(100% - 6.8rem);
   width: 100%;
   object-fit: cover;
